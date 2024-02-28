@@ -1,0 +1,8 @@
+C:\Users\Alina\source\repos\Lab5task1\Lab5task1\bin\Debug\Lab5task1.exe.config
+C:\Users\Alina\source\repos\Lab5task1\Lab5task1\bin\Debug\Lab5task1.exe
+C:\Users\Alina\source\repos\Lab5task1\Lab5task1\bin\Debug\Lab5task1.pdb
+C:\Users\Alina\source\repos\Lab5task1\Lab5task1\obj\Debug\Lab5task1.csproj.AssemblyReference.cache
+C:\Users\Alina\source\repos\Lab5task1\Lab5task1\obj\Debug\Lab5task1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alina\source\repos\Lab5task1\Lab5task1\obj\Debug\Lab5task1.csproj.CoreCompileInputs.cache
+C:\Users\Alina\source\repos\Lab5task1\Lab5task1\obj\Debug\Lab5task1.exe
+C:\Users\Alina\source\repos\Lab5task1\Lab5task1\obj\Debug\Lab5task1.pdb
